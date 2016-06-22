@@ -3,7 +3,8 @@ layout: post
 title: We and Github!
 ---
 
-Today weather is cold,but Github give us warm!:)
+I am from Almaty.I have studied 184 school.Now I study in NIS CBD school. In the next year I will 10 grade.I want to become scientist.
+
 
 ![_config.yml](http://www.webmonkey.com/category/security/)
 
