@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Aruzhan.I am 14.I like to read books.I am from Almaty.I have studied 184 school.Now I study in NIS CBD school. In the next year I will 10 grade. And my favorite subject biology, because of I want to become scientist. 
+Some information about you!
 
 ### More Information
 
-Also I like play tennis !
+A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
