@@ -9,8 +9,8 @@ So I am starting. My favorite game 100 doors.
 That be winner you should open all doors of clues which you should find.
 ![_config.yml] (http://superandroid.mobi/uploads/posts/2015-09/100-doors-2016_1.jpg)
 ---
-This game story: you located in the room where have different things and one door.
-![_config.yml] (http://superandroid.mobi/uploads/posts/2015-09/100-doors-2016_4.jpg)
+Game story: you located in the room where have different things and one door.
+![_config.yml] (http://1079638729.rsc.cdn77.org/file_exchange/java_game_images/games/7/6886/real/5.jpg)
 ---
 Rules of game:You should search clue everywhere.Then open door and go at the next level. Thats all!
 ![_config.yml] (http://dlya-androida.ru/uploads/posts/2014-03/1394823492_1.jpg)
