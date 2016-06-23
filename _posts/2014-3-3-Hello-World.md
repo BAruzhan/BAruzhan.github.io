@@ -19,4 +19,4 @@ Rules of game:You should search clue everywhere.Then open door and go at the nex
 ---
 ![_config.yml] (http://dlya-androida.ru/uploads/posts/2014-03/1394823492_1.jpg)
 ---
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/BAruzhan/BAruzhan.github.io) on GitHub.
+That is all!Thank for your attention!
