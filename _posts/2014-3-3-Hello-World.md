@@ -17,6 +17,6 @@ Game story: you located in the room where have different things and one door.
 
 Rules of game:You should search clue everywhere.Then open door and go at the next level. Thats all!
 
-![_config.yml](http://dlya-androida.ru/uploads/posts/2014-03/1394823492_1.jpg)
+![_config.yml](http://levelstuck.com/wp-content/uploads/2013/4/100-doors-beta-2-level-25.jpg)
 
 That is all!Thank for your attention!
