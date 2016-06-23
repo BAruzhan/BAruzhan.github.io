@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MONSTER!!!
+title: MONSTER zzzz
 ---
 ![_config.yml](http://tattooos.org/wp-content/uploads/parser/Blue-Monster-Tattoo-1.jpg)
 
