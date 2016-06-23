@@ -1,1 +1,16 @@
+---
+layout: post
+title: MONSTER!!!
+---
+![_config.yml](http://tattooos.org/wp-content/uploads/parser/Blue-Monster-Tattoo-1.jpg)
+
+<br/>
+Do not say that they were not afraid
+---
+![_config.yml](https://lh3.googleusercontent.com/rqUd9aMy27EYmGQ2nmZNdQ_hEehNdx8VW-tTQ_e5natSQmHRsV7c-NXeiBk4F7jKOpw=w300)
+
+Sweet Dreams!
+
+
+ 
 
