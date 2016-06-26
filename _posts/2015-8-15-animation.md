@@ -2,9 +2,9 @@
 layout: post
 title: Animation ))))
 ---
-![_config.yml]  (https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgHAAAAJDU0ZDYwNzNjLTMwZGYtNGU4NC05OTA0LWMyOWZkNDhjZDc3Yw.jpg)
+![_config.yml](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgHAAAAJDU0ZDYwNzNjLTMwZGYtNGU4NC05OTA0LWMyOWZkNDhjZDc3Yw.jpg)
 <br/>
-On Friday, the lesson we did animation. With this animation, we were able to not only have fun , but also learn a bunch of different things and useful to us.
+ On Friday, the lesson we did animation.With this animation, we were able to not only have fun , but also learn a bunch of different things and useful to us.
 <br/>
 
 ![_config.yml](http://previews.123rf.com/images/iqoncept/iqoncept1206/iqoncept120600051/14050919-The-word-Fun-in-a-burst-of-colorful-stars-representing-an-amusing-entertainment-way-to-spend-your-ti-Stock-Photo.jpg)
@@ -17,4 +17,5 @@ but also learn a bunch of different things and useful to us.
 We also learned how to make pictures in the same way as the animation!
 ---
 https://baruzhan.github.io/animation1/
+<br/>
 https://baruzhan.github.io/image/
