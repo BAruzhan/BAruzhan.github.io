@@ -1,6 +1,7 @@
 ---
 layout:post
-titke: Akinator
+title: Akinator
+
 ---
 ![_config.yml](https://i.ytimg.com/vi/zqttH28FfPI/maxresdefault.jpg)
 
