@@ -3,6 +3,8 @@ layout: post
 title: Animation ))))
 ---
 ![_config.yml](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgHAAAAJDU0ZDYwNzNjLTMwZGYtNGU4NC05OTA0LWMyOWZkNDhjZDc3Yw.jpg)
+
+---
 <br/>
  On Friday, the lesson we did animation.With this animation, we were able to not only have fun,
  ---
