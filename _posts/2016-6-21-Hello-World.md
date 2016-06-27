@@ -5,7 +5,7 @@ title: 100 DOORS!
 Today on the third lesson my teacher sherol said us write about your favorite game. 
 So I am starting. My favorite game 100 doors.
 
-![_config.yml](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEV42p_XTxToVR6UvzYzIFhkd3UnfZmrQgOX1bswLm8qbzP8EZA)
+![_config.yml](http://android-tornado.ru/uploads/posts/2012-08/1344791042_1.png)
 
 That be winner you should open all doors of clues which you should find.
 Game story: you located in the room where have different things and one door.
