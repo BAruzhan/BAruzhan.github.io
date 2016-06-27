@@ -11,6 +11,5 @@ That be winner you should open all doors of clues which you should find.
 Game story: you located in the room where have different things and one door.
 Rules of game:You should search clue everywhere.Then open door and go at the next level. Thats all!
 
-![_config.yml](https://lh3.ggpht.com/Sy9JdUKoQW6CXDJd7LksTaaD2pV0XY5UEaajOZXMpBw_HhEoAz6MxDDc51YMG_IPPg=h900)
-
 That is all!Thank for your attention!
+---
