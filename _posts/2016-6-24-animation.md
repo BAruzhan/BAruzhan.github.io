@@ -6,8 +6,8 @@ title: Animation ))))
 <br/>
  On Friday, the lesson we did animation.With this animation, we were able to not only have fun,
  ---
+ 
 <br/>
-
 ![_config.yml](http://previews.123rf.com/images/iqoncept/iqoncept1206/iqoncept120600051/14050919-The-word-Fun-in-a-burst-of-colorful-stars-representing-an-amusing-entertainment-way-to-spend-your-ti-Stock-Photo.jpg)
 <br/>
 but also learn a bunch of different things and useful to us.
@@ -16,7 +16,8 @@ but also learn a bunch of different things and useful to us.
 <br/>
 
 We also learned how to make pictures in the same way as the animation! Thanks to this program,as Processing we can make different interesting things and develop our fantazy and critical thinking.
----
+ 
+ 
 https://baruzhan.github.io/animation1/
 <br/>
 https://baruzhan.github.io/image/
