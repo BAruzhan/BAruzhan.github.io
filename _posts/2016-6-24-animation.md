@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animation ))))
+title: My first animation! ))))
 ---
 ![_config.yml](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgHAAAAJDU0ZDYwNzNjLTMwZGYtNGU4NC05OTA0LWMyOWZkNDhjZDc3Yw.jpg)
 
