@@ -2,14 +2,13 @@
 layout: post
 title: 100 DOORS!
 ---
-Today on the third lesson my teacher sherol said us write about your favorite game. 
-So I am starting. My favorite game 100 doors.
+Today on the third lesson my teacher Sherol said us write about your favorite game. 
+So I am starting. My favorite game "Alice in the Looking-Glass Albion".
 
-![_config.yml](http://android-tornado.ru/uploads/posts/2012-08/1344791042_1.png)
+![_config.yml](http://www.macdigger.ru/wp-content/uploads/2012/10/alice-12.jpg)
 
-That be winner you should open all doors of clues which you should find.
-Game story: you located in the room where have different things and one door.
-Rules of game:You should search clue everywhere.Then open door and go at the next level. Thats all!
+Find Alice!"Mirrors of Albion" will take you to the mysterious Victorian England . You will encounter intrigue , crimes and mysteries , perform a variety of interesting tasks , find all the hidden objects and fall through the evil plans of the Queen of Hearts . You will truly detective puzzle game!
+If you want to be winner you should to find Alice, who disappeared without a trace. 
 
-That is all!Thank for your attention!
+That is all!Thank you for attention!
 ---
