@@ -6,6 +6,7 @@ title: My first animation! ))))
 
 ---
 <br/>
+ 
  On Friday, the lesson we did animation.With this animation, we were able to not only have fun,
  ---
 
@@ -17,7 +18,7 @@ but also learn a bunch of different things and useful to us.
 <br/>
 We also learned how to make pictures in the same way as the animation! Thanks to this program,as Processing we can make different interesting things and develop our fantazy and critical thinking.
 ---
-
+<br/>
 https://baruzhan.github.io/animation1/
 <br/>
 https://baruzhan.github.io/image/
