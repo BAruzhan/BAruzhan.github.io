@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 100 DOORS!
+title: Alice!
 ---
 Today on the third lesson my teacher Sherol said us write about your favorite game. 
 So I am starting. My favorite game "Alice in the Looking-Glass Albion".
