@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title:My favorite things in the class!
 ---
 1) Arduino.Develops motor skills of hands,because you have to connect the wires, and it is very thin and do such work often,logic and critical thinking.Also we take more information, when we practise our skills , than remember out books.It was funny and informative. 
