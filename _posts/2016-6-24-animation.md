@@ -20,3 +20,5 @@ We also learned how to make pictures in the same way as the animation! Thanks to
 https://baruzhan.github.io/animation1/
 <br/>
 https://baruzhan.github.io/image/
+<br/>
+https://baruzhan.github.io/ball/
