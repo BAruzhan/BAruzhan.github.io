@@ -45,5 +45,5 @@ Akinator can ask 40 questions.
 
 If he doesn't find your character, he can to ask 2 more question.Even if this time he did not guess your character , you have won!
 
-<center/>You owe it to play!
+You owe it to play!
 ---
